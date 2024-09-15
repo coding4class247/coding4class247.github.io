@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(254, 254, 254);
+}
+body {
+   background-color: rgb(0, 0, 0);
+}
+h2 {
+    color: antiquewhite;
+}
+#content{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+p{
+    color: beige;
+}
